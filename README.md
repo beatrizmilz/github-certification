@@ -7,7 +7,7 @@ Hi! I'm studying to take the GitHub Foundations Exam, so here is a list of mater
 - [Official Exam Registration page](https://examregistration.github.com/overview)
 - [GitHub Documentation](https://docs.github.com/)
 - [Candidate Handbook](https://examregistration.github.com/handbook)
-- Each exam costs USD 200.
+- [FAQ](https://examregistration.github.com/faq)
 
 
 ## GitHub Foundations
