@@ -1,5 +1,8 @@
 # GitHub Certification
 
+Hi! I'm studying to take the GitHub Foundations Exam, so here is a list of materials that can be useful to study.
+
+
 
 ## GitHub Foundations
 
