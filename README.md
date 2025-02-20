@@ -1,8 +1,6 @@
 # GitHub Certification
 
-Hi! I'm studying to take the GitHub Foundations Exam, so here is a list of materials that can be useful to study.
-
-
+- 2025 Update: Now the certifications are available in English, Portuguese, Spanish, Korean and Japanese! 🎉
 
 - [Official Exam Registration page](https://examregistration.github.com/overview)
 - [GitHub Documentation](https://docs.github.com/)
@@ -13,7 +11,6 @@ Hi! I'm studying to take the GitHub Foundations Exam, so here is a list of mater
 ## GitHub Foundations
 
 > "This certification validates your expertise with GitHub Foundations."
-
 
 - [Collection - GitHub Foundations - Microsoft Learn](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
 - [Prepare for the GitHub Foundations Certification - LinkedIn Learning](https://www.linkedin.com/learning/paths/prepare-for-the-github-foundations-certification)
@@ -37,3 +34,9 @@ Hi! I'm studying to take the GitHub Foundations Exam, so here is a list of mater
 > "This certification validates your expertise with GitHub Advanced Security."
 
 - [Collection - GitHub Advanced Security - Microsoft Learn](https://learn.microsoft.com/en-us/collections/rqymc6yw8q5rey)
+
+## GitHub Copilot
+
+> "This certification validates your expertise with GitHub Copilot."
+
+- [GitHub Copilot Fundamentals - Understand the AI pair programmer - Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/copilot/)
